@@ -27,7 +27,7 @@ And tested on the channel https://www.youtube.com/@i.302
 The Shelbags Analyzer program is designed to track deleted folders.
 ShellBags Backups Recently deleted is designed to track deleted folders. 
 which were cleaned through cleaning programs (The program is in beta test on different versions
-Windows error may occur (Run as administrator))  
+Windows error may occur (Run as administrator))  Translated via yandex.translate
 ------------------------------------------------------------------------------------------------
 Я не создатель я-распространитель нового способа проверки
 I'm not the creator, I'm the distributor of a new verification method.
